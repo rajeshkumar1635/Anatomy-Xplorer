@@ -22,3 +22,26 @@ Each 3D model organ is associated with an AR marker. The AR markers can be found
 ## Outputs
 
 When an AR marker is scanned, its associated 3D model will appear. Each 3D model has at least one button on its surface (the model may need to be rotated to bring the button into view). Upon clicking the button, a text description of the organ will be displayed.
+🌟 The Anatomy Xplorer — Augmented Reality Learning App
+Overview:
+The Anatomy Xplorer is an AR-based educational tool that helps students explore 3D models of human organs. Each organ is rendered with realistic textures and can be interactively rotated for full visual understanding.
+
+Key Features:
+
+📱 AR Marker Activation: Scan AR markers to display 3D organ models.
+
+🔄 Interactive Rotation: Tap and drag to rotate the organ from any angle.
+
+ℹ️ Organ Descriptions: Tap the on-model button to reveal a detailed description.
+
+🧹 Model Clearing: Use the "Clear entities" button to remove current models.
+
+🌍 Language Support: Organ names are available in multiple languages (descriptions remain in English).
+
+Navigation:
+
+Use the "Exit" button to return to the home screen and select different languages.
+
+Scan new markers to load different organs instantly.
+
+
